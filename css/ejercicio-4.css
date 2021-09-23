@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    }
+    .main {
+    background-color: #B0CCAB;
+    height: 200px;
+    padding: 30px;
+    margin-top: 0;
+    padding-left: 320px;
+    padding-right: 320px;
+    }
+    .main__paragraph {
+    left: 40px;
+    position: fixed;
+    padding-left: 375px;
+    padding-right: 225px;
+    }

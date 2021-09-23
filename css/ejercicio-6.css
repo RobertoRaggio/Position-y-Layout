@@ -1,0 +1,11 @@
+.bateria {
+    position: absolute;
+    z-index: 1;
+}
+.ribbon {
+    position: absolute;
+    z-index: 2;
+    margin-top: 277px;
+    margin-left: 267px;
+
+}

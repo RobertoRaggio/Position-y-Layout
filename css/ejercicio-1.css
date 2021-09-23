@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main {
+margin: 5px;
+}
+.box {
+border: 2px solid #808080;
+height: 300px;
+width: 25%;
+padding: 5px;
+float: left;
+box-sizing: border-box;
+overflow: auto;
+text-align: center;
+}
+
+.imagen {
+    width: 60%;
+}
+
+p {
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.navbar {
+    background-color: green;
+    position:fixed;
+    top: 0;
+    margin-bottom: 20px;
+}

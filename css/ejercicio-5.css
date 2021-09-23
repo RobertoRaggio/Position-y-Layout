@@ -1,0 +1,8 @@
+.lentes {
+    position: absolute;
+    z-index: 1;
+}
+.ribbon {
+    position: absolute;
+    z-index: 2;
+}
